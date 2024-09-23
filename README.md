@@ -1,2 +1,3 @@
 # system_configuration
-The configurations of Arch system, i3wm, Hyprland and more.
+
+My configurations of Arch system, i3wm, Hyprland and more.
