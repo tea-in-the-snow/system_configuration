@@ -82,6 +82,8 @@ sof-firmware
 spectacle
 starship
 terminus-font
+thunderbird
+thunderbird-i18n-zh-cn
 timeshift
 toastify
 ttf-cascadia-code-nerd
