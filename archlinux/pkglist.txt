@@ -7,7 +7,6 @@ base-devel
 bat
 bluez-utils
 brightnessctl
-btrfs-assistant
 btrfs-progs
 catppuccin-fcitx5-git
 clash-verge
@@ -76,8 +75,6 @@ rofi-wayland
 rsync
 sddm
 slurp
-snap-pac
-snapper
 sof-firmware
 spectacle
 starship
