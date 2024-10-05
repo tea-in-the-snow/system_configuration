@@ -49,6 +49,7 @@ kitty
 konsole
 lazygit
 less
+linux
 linux-firmware
 linux-zen
 linux-zen-headers
