@@ -36,8 +36,8 @@ grub-btrfs
 grub-customizer
 gwenview
 hugo
-hyprland
-hyprpaper
+hyprland-git
+hyprpaper-git
 i3-wm
 i3status
 imagemagick
@@ -108,7 +108,7 @@ wps-office-cn
 wps-office-mui-zh-cn
 xclip
 xdg-desktop-portal-gtk
-xdg-desktop-portal-hyprland
+xdg-desktop-portal-hyprland-git
 xorg-xrandr
 yay
 yay-debug
