@@ -43,6 +43,7 @@ i3status
 imagemagick
 inotify-tools
 intel-ucode
+jdk-openjdk
 jetbrains-toolbox
 kate
 kitty
@@ -63,6 +64,7 @@ noto-fonts-extra
 npm
 ntp
 okular
+openjdk-doc
 openssh
 os-prober
 otf-font-awesome
