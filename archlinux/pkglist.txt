@@ -64,6 +64,7 @@ noto-fonts-extra
 npm
 ntp
 okular
+opam
 openjdk-doc
 openssh
 os-prober
@@ -85,6 +86,8 @@ terminus-font
 thunderbird
 thunderbird-i18n-zh-cn
 timeshift
+tlp
+tlp-rdw
 toastify
 ttf-cascadia-code-nerd
 ttf-dejavu
