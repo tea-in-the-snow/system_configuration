@@ -14,6 +14,7 @@ dolphin
 dolphin-plugins
 easyconnect
 efibootmgr
+fastfetch
 fcitx5
 fcitx5-chinese-addons
 fcitx5-configtool
@@ -44,6 +45,7 @@ imagemagick
 inotify-tools
 intel-ucode
 jdk-openjdk
+jdk8-openjdk
 jetbrains-toolbox
 kate
 kitty
@@ -89,6 +91,7 @@ timeshift
 tlp
 tlp-rdw
 toastify
+tree
 ttf-cascadia-code-nerd
 ttf-dejavu
 ttf-dejavu-nerd
