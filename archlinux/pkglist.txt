@@ -62,6 +62,7 @@ linux-zen-headers
 linuxqq
 luarocks
 mako
+microsoft-edge-stable-bin
 neofetch
 neovim
 networkmanager
