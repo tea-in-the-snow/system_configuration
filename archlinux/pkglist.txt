@@ -59,6 +59,7 @@ linux
 linux-firmware
 linux-zen
 linux-zen-headers
+linuxqq
 luarocks
 mako
 neofetch
@@ -114,6 +115,7 @@ ttf-wps-fonts
 vim
 visual-studio-code-bin
 waybar
+wechat
 wezterm
 wget
 wl-clipboard
